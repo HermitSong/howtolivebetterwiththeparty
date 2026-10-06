@@ -1,0 +1,1089 @@
+{
+  "schema_version": 1,
+  "compiled_on": "2026-10-06",
+  "scope": "有限的官方公开文献元数据和检索入口；不是全文语料、全部领导人资料或持续更新的现行政策库。相同文件的不同官方转载保留为替代访问来源。",
+  "sources": [
+    {
+      "id": "hist-mao-ten-relationships",
+      "title": "毛泽东《论十大关系》",
+      "url": "https://fuwu.12371.cn/2013/08/14/ARTI1376449049161135_all.shtml",
+      "publisher": "共产党员网（来源：人民网）",
+      "original_author": "毛泽东",
+      "event_date": "1956-04-25",
+      "published_date": "2013-08-14",
+      "doc_type": "theory",
+      "period": "社会主义革命和建设时期",
+      "tags": [
+        "毛泽东",
+        "社会主义建设",
+        "中央地方关系"
+      ],
+      "verification": "opened_fulltext",
+      "notes": "已打开单页全文；原讲话时间与后来的公开刊印、网页转载时间不同。",
+      "checked_date": "2026-10-06"
+    },
+    {
+      "id": "hist-deng-1978",
+      "title": "解放思想，实事求是，团结一致向前看",
+      "url": "https://fuwu.12371.cn/2012/06/11/ARTI1339401591746288.shtml",
+      "publisher": "共产党员网（来源：新华网）",
+      "original_author": "邓小平",
+      "event_date": "1978-12-13",
+      "published_date": "2012-06-12",
+      "doc_type": "theory",
+      "period": "改革开放开端",
+      "tags": [
+        "邓小平",
+        "思想路线",
+        "改革开放"
+      ],
+      "verification": "opened_fulltext",
+      "notes": "中央工作会议闭幕讲话；网页实际标注日期为2012-06-12，不能仅按URL推断发布日期。",
+      "checked_date": "2026-10-06"
+    },
+    {
+      "id": "hist-jiang-16th",
+      "title": "全面建设小康社会，开创中国特色社会主义事业新局面——十六大报告",
+      "url": "https://fuwu.12371.cn/2012/09/27/ARTI1348734708607117.shtml",
+      "publisher": "共产党员网（来源：新华网）",
+      "original_author": "江泽民（代表第十五届中央委员会）",
+      "event_date": "2002-11-08",
+      "published_date": "2012-09-27",
+      "doc_type": "party_document",
+      "period": "改革开放和社会主义现代化建设新时期",
+      "tags": [
+        "江泽民",
+        "三个代表",
+        "十六大",
+        "全面建设小康社会"
+      ],
+      "verification": "opened_fulltext",
+      "notes": "中央委员会集体报告，不能把全部政策贡献归为报告人个人；所载数字是当时口径。",
+      "checked_date": "2026-10-06"
+    },
+    {
+      "id": "hist-hu-17th",
+      "title": "高举中国特色社会主义伟大旗帜 为夺取全面建设小康社会新胜利而奋斗——十七大报告",
+      "url": "https://fuwu.12371.cn/2012/06/11/ARTI1339412115437623.shtml",
+      "publisher": "共产党员网（来源：新华网）",
+      "original_author": "胡锦涛（代表第十六届中央委员会）",
+      "event_date": "2007-10-15",
+      "published_date": "2012-06-19",
+      "doc_type": "party_document",
+      "period": "改革开放和社会主义现代化建设新时期",
+      "tags": [
+        "胡锦涛",
+        "科学发展观",
+        "十七大",
+        "发展方式"
+      ],
+      "verification": "opened_fulltext",
+      "notes": "第三部分阐述科学发展观；须按2007年语境读取社会主要矛盾、市场作用等表述。",
+      "checked_date": "2026-10-06"
+    },
+    {
+      "id": "hist-resolution-1981",
+      "title": "关于建国以来党的若干历史问题的决议",
+      "url": "https://www.12371.cn/2021/11/09/ARTI1636454249781129.shtml",
+      "publisher": "共产党员网（来源：中国政府网）",
+      "original_author": "中国共产党第十一届中央委员会第六次全体会议",
+      "event_date": "1981-06-27",
+      "published_date": "2021-11-09",
+      "doc_type": "party_document",
+      "period": "对建国以来历史的1981年总结",
+      "tags": [
+        "历史决议",
+        "毛泽东思想",
+        "文化大革命",
+        "历史评价"
+      ],
+      "verification": "opened_fulltext",
+      "notes": "属于党的正式历史评价；个人言论、历史政策、正式理论与后来的纠错必须区分。",
+      "checked_date": "2026-10-06"
+    },
+    {
+      "id": "hist-resolution-2021",
+      "title": "中共中央关于党的百年奋斗重大成就和历史经验的决议",
+      "url": "https://www.mem.gov.cn/jjz/ywgz/202111/t20211122_403307.shtml",
+      "publisher": "应急管理部网站",
+      "original_author": "中国共产党第十九届中央委员会第六次全体会议",
+      "event_date": "2021-11-11",
+      "published_date": "2021-11-22",
+      "doc_type": "party_document",
+      "period": "百年历史总结",
+      "tags": [
+        "历史分期",
+        "指导思想",
+        "理论演变"
+      ],
+      "verification": "opened_fulltext",
+      "notes": "部门官网转载正式中央文件；用于辨识党的理论史叙述，不能作为所有历史因果已经得到独立验证的证明。",
+      "checked_date": "2026-10-06"
+    },
+    {
+      "id": "hist-hua-11th",
+      "title": "十一大上的政治报告",
+      "url": "https://fuwu.12371.cn/2012/09/25/ARTI1348541192153839.shtml",
+      "publisher": "共产党员网（来源：新华网）",
+      "original_author": "华国锋",
+      "event_date": "1977-08-12",
+      "published_date": "2012-09-25",
+      "doc_type": "party_document",
+      "period": "1976年至1978年历史转折",
+      "tags": [
+        "华国锋",
+        "十一大",
+        "历史政策"
+      ],
+      "verification": "opened_fulltext",
+      "notes": "1977-08-12报告、1977-08-18通过；其中后来被纠正的论断仅作历史材料，须同1981年决议对读。",
+      "checked_date": "2026-10-06"
+    },
+    {
+      "id": "hist-huyaobang-12th",
+      "title": "全面开创社会主义现代化建设的新局面——十二大报告",
+      "url": "https://fuwu.12371.cn/2012/09/27/ARTI1348712095996447.shtml",
+      "publisher": "共产党员网（来源：新华网）",
+      "original_author": "胡耀邦（代表第十一届中央委员会）",
+      "event_date": "1982-09-01",
+      "published_date": "2012-09-27",
+      "doc_type": "party_document",
+      "period": "改革开放初期",
+      "tags": [
+        "胡耀邦",
+        "十二大",
+        "现代化建设",
+        "机构改革"
+      ],
+      "verification": "opened_fulltext",
+      "notes": "集体报告原文；历史部署不自动等于现行政策。",
+      "checked_date": "2026-10-06"
+    },
+    {
+      "id": "hist-zhao-13th-resolution",
+      "title": "中国共产党第十三次全国代表大会关于十二届中央委员会报告的决议",
+      "url": "https://fuwu.12371.cn/2012/09/25/ARTI1348563797180237.shtml",
+      "publisher": "共产党员网（来源：新华网）",
+      "original_author": "中国共产党第十三次全国代表大会",
+      "event_date": null,
+      "published_date": "2012-09-25",
+      "doc_type": "party_document",
+      "period": "改革开放初期",
+      "tags": [
+        "赵紫阳",
+        "十三大",
+        "社会主义初级阶段",
+        "基本路线"
+      ],
+      "verification": "opened_fulltext",
+      "notes": "打开的是批准赵紫阳所作报告的决议，不是赵紫阳报告全文；页面未明示决议通过日期。",
+      "checked_date": "2026-10-06"
+    },
+    {
+      "id": "hist-zhou-catalog",
+      "title": "周恩来著作",
+      "url": "https://www.dswxyjy.org.cn/GB/427196/423771/428220/index.html",
+      "publisher": "中共中央党史和文献研究院",
+      "original_author": "周恩来（目录所列著作作者）",
+      "event_date": null,
+      "published_date": null,
+      "doc_type": "portal",
+      "period": "革命、建设时期",
+      "tags": [
+        "周恩来",
+        "选集",
+        "经济",
+        "外交",
+        "统一战线"
+      ],
+      "verification": "opened_portal",
+      "notes": "已打开分类目录，含选集、经济文选、外交文选等；未逐卷下载或读取正文。",
+      "checked_date": "2026-10-06"
+    },
+    {
+      "id": "hist-liushaoqi-catalog",
+      "title": "刘少奇著作",
+      "url": "https://www.dswxyjy.org.cn/GB/427196/423771/428221/index.html",
+      "publisher": "中共中央党史和文献研究院",
+      "original_author": "刘少奇（目录所列著作作者）",
+      "event_date": null,
+      "published_date": null,
+      "doc_type": "portal",
+      "period": "革命、建设时期",
+      "tags": [
+        "刘少奇",
+        "选集",
+        "经济建设",
+        "教育",
+        "党建"
+      ],
+      "verification": "opened_portal",
+      "notes": "已打开分类目录，含选集和专题文选；目录记录不能替代具体篇章证据。",
+      "checked_date": "2026-10-06"
+    },
+    {
+      "id": "hist-zhude-catalog",
+      "title": "朱德著作",
+      "url": "https://www.dswxyjy.org.cn/GB/427196/423771/428222/index.html",
+      "publisher": "中共中央党史和文献研究院",
+      "original_author": "朱德（目录所列主要著作作者）",
+      "event_date": null,
+      "published_date": null,
+      "doc_type": "portal",
+      "period": "革命、建设时期",
+      "tags": [
+        "朱德",
+        "选集",
+        "军事文选"
+      ],
+      "verification": "opened_portal",
+      "notes": "已打开分类目录；如需具体论述，继续打开对应书目和篇章。",
+      "checked_date": "2026-10-06"
+    },
+    {
+      "id": "hist-chenyun-catalog",
+      "title": "陈云著作",
+      "url": "https://www.dswxyjy.org.cn/GB/427196/423771/428225/index.html",
+      "publisher": "中共中央党史和文献研究院",
+      "original_author": "陈云（目录所列主要著作作者）",
+      "event_date": null,
+      "published_date": null,
+      "doc_type": "portal",
+      "period": "革命、建设、改革开放时期",
+      "tags": [
+        "陈云",
+        "文选",
+        "党建",
+        "经济"
+      ],
+      "verification": "opened_portal",
+      "notes": "已打开目录，列陈云文选三卷等；未验证各卷全部正文可用。",
+      "checked_date": "2026-10-06"
+    },
+    {
+      "id": "hist-zhu-report-2003",
+      "title": "政府工作报告（2003年）",
+      "url": "https://www.mfa.gov.cn/ziliao_674904/zt_674979/ywzt_675099/wzzt_675579/2108_675689/200303/t20030320_9288239.shtml",
+      "publisher": "中华人民共和国外交部",
+      "original_author": "朱镕基（代表国务院）",
+      "event_date": "2003-03-05",
+      "published_date": "2003-03-20",
+      "doc_type": "policy",
+      "period": "1998年至2003年政府工作",
+      "tags": [
+        "朱镕基",
+        "政府工作报告",
+        "宏观调控",
+        "改革"
+      ],
+      "verification": "opened_fulltext",
+      "notes": "外交部公开全文；事件日期另与国务院公报搜索结果交叉核对；公报原链接本轮打开403。",
+      "checked_date": "2026-10-06"
+    },
+    {
+      "id": "hist-wen-report-2013",
+      "title": "政府工作报告（2013年）",
+      "url": "https://www.12371.cn/2013/03/18/ARTI1363589336906793_all.shtml",
+      "publisher": "共产党员网（来源：新华社）",
+      "original_author": "温家宝（代表国务院）",
+      "event_date": "2013-03-05",
+      "published_date": "2013-03-18",
+      "doc_type": "policy",
+      "period": "2008年至2013年政府工作",
+      "tags": [
+        "温家宝",
+        "政府工作报告",
+        "公共服务",
+        "经济社会发展"
+      ],
+      "verification": "opened_fulltext",
+      "notes": "已打开全文阅读单页；是当年工作回顾与建议，不是当前有效政策清单。",
+      "checked_date": "2026-10-06"
+    },
+    {
+      "id": "hist-li-report-2023",
+      "title": "政府工作报告（2023年）",
+      "url": "https://www.nia.gov.cn/n794014/n1050181/n1050479/c1567145/content.html",
+      "publisher": "国家移民管理局（转载新华社）",
+      "original_author": "李克强（代表国务院）",
+      "event_date": "2023-03-05",
+      "published_date": null,
+      "doc_type": "policy",
+      "period": "2018年至2023年政府工作",
+      "tags": [
+        "李克强",
+        "政府工作报告",
+        "就业",
+        "市场主体"
+      ],
+      "verification": "opened_fulltext",
+      "notes": "正文可读；可见新华社3月14日电，但未见独立完整网页发布日期，故保留null。",
+      "checked_date": "2026-10-06"
+    },
+    {
+      "id": "hist-12th-portal",
+      "title": "中国共产党第十二次全国代表大会",
+      "url": "https://www.12371.cn/special/lcddh/ddh12/",
+      "publisher": "共产党员网（来源：中央党史和文献研究院网站）",
+      "original_author": "专题编辑部",
+      "event_date": "1982-09-01",
+      "published_date": null,
+      "doc_type": "portal",
+      "period": "改革开放初期",
+      "tags": [
+        "十二大",
+        "邓小平",
+        "中国特色社会主义命题"
+      ],
+      "verification": "opened_portal",
+      "notes": "专题概述确认1982年开幕词中的命题；不将专题概述冒充开幕词全文。",
+      "checked_date": "2026-10-06"
+    },
+    {
+      "id": "constitution-2018",
+      "title": "中华人民共和国宪法（2018年修正文本）",
+      "url": "https://news.12371.cn/2018/03/22/ARTI1521673331685307.shtml",
+      "publisher": "共产党员网（来源：新华社）",
+      "original_author": "全国人民代表大会",
+      "event_date": "2018-03-11",
+      "published_date": "2018-03-22",
+      "checked_date": "2026-10-06",
+      "doc_type": "law",
+      "period": "1982年制定；2018年修正文本",
+      "tags": [
+        "宪法",
+        "国家制度",
+        "公民权利",
+        "法律效力"
+      ],
+      "verification": "opened_fulltext",
+      "notes": "已打开全文。event_date为本版最后修正通过日，不是原制定日；原制定及公布施行为1982-12-04。全国人大原站本轮超时，采用官方转载；具体争议应另查现行效力和适用条款，不能仅以本文件注册日期断言永远现行。"
+    },
+    {
+      "id": "cpc-constitution-2022",
+      "title": "中国共产党章程（2022年部分修改）",
+      "url": "https://www.12371.cn/2022/10/26/ARTI1666788342244946.shtml",
+      "publisher": "共产党员网（来源：新华社）",
+      "original_author": "中国共产党第二十次全国代表大会",
+      "event_date": "2022-10-22",
+      "published_date": "2022-10-26",
+      "checked_date": "2026-10-06",
+      "doc_type": "party_document",
+      "period": "2022年版",
+      "tags": [
+        "党章",
+        "指导思想",
+        "基本路线",
+        "中国特色社会主义"
+      ],
+      "verification": "opened_fulltext",
+      "notes": "总纲是核对理论名称、基本路线、总体布局、社会主义初级阶段和党自身定位的核心文本。区分党内根本规范与国家法律；不要把所有领导人讲话都提升为党章地位。"
+    },
+    {
+      "id": "historical-resolution-2021",
+      "title": "中共中央关于党的百年奋斗重大成就和历史经验的决议",
+      "url": "https://www.12371.cn/2021/11/16/ARTI1637053281483114.shtml",
+      "publisher": "共产党员网（来源：新华社）",
+      "original_author": "中共中央",
+      "event_date": "2021-11-11",
+      "published_date": "2021-11-16",
+      "checked_date": "2026-10-06",
+      "doc_type": "party_document",
+      "period": "1921—2021年回顾；2021年通过",
+      "tags": [
+        "党史",
+        "毛泽东思想",
+        "邓小平理论",
+        "三个代表",
+        "科学发展观",
+        "习近平新时代中国特色社会主义思想",
+        "历史评价"
+      ],
+      "verification": "opened_fulltext",
+      "notes": "适合核对党的正式历史评价和理论谱系，也载明严重曲折及错误的评价。该文件代表中共中央的历史总结；实证历史因果问题仍需同时代档案、统计、其他史料与研究。不能只截取正面段落或把后来的总结当作当时人已知的信息。"
+    },
+    {
+      "id": "cpc-report-19-2017",
+      "title": "决胜全面建成小康社会 夺取新时代中国特色社会主义伟大胜利——在中国共产党第十九次全国代表大会上的报告",
+      "url": "https://www.12371.cn/2017/10/27/ARTI1509103656574313.shtml",
+      "publisher": "共产党员网（来源：新华社）",
+      "original_author": "习近平（代表第十八届中央委员会）",
+      "event_date": "2017-10-18",
+      "published_date": "2017-10-27",
+      "checked_date": "2026-10-06",
+      "doc_type": "party_document",
+      "period": "2017年十九大",
+      "tags": [
+        "新时代",
+        "社会主要矛盾",
+        "八个明确",
+        "十四个坚持",
+        "两步走"
+      ],
+      "verification": "opened_fulltext",
+      "notes": "用于解释2017年的原始表述与政策时点；不要用2021年及以后调整后的概括改写2017年原文。对现实问题须与后续文件比对。"
+    },
+    {
+      "id": "cpc-report-20-2022",
+      "title": "高举中国特色社会主义伟大旗帜 为全面建设社会主义现代化国家而团结奋斗——在中国共产党第二十次全国代表大会上的报告",
+      "url": "https://www.12371.cn/2022/10/25/ARTI1666705047474465.shtml",
+      "publisher": "共产党员网（来源：新华社）",
+      "original_author": "习近平（代表第十九届中央委员会）",
+      "event_date": "2022-10-16",
+      "published_date": "2022-10-25",
+      "checked_date": "2026-10-06",
+      "doc_type": "party_document",
+      "period": "2022年二十大",
+      "tags": [
+        "中国式现代化",
+        "六个必须坚持",
+        "高质量发展",
+        "发展和安全",
+        "共同富裕"
+      ],
+      "verification": "opened_fulltext",
+      "notes": "区分战略目标、本质要求、方法论和具体政策工具。2035年及本世纪中叶目标是政策目标，不是已发生事实或保证兑现的预测。"
+    },
+    {
+      "id": "third-plenum-decision-2024",
+      "title": "中共中央关于进一步全面深化改革 推进中国式现代化的决定",
+      "url": "https://www.mofcom.gov.cn/xwfb/ldrhd/art/2024/art_ec1f616bbfba49d7bd9baf70152f9caf.html",
+      "publisher": "商务部（转载新华社）",
+      "original_author": "中共中央",
+      "event_date": "2024-07-18",
+      "published_date": "2024-07-22",
+      "checked_date": "2026-10-06",
+      "doc_type": "party_document",
+      "period": "二十届三中全会；2024年起改革部署",
+      "tags": [
+        "全面深化改革",
+        "市场与政府",
+        "统一大市场",
+        "制度建设",
+        "中国式现代化"
+      ],
+      "verification": "opened_fulltext",
+      "notes": "已打开商务部全文转载。通过日期与转载日期不同；新华社原始发布早于本页转载。任务部署需要逐项查询部门落实文件、法律修改和地方实施情况，不能视为每项改革已经完成。"
+    },
+    {
+      "id": "fifteenth-plan-recommendations-2025",
+      "title": "中共中央关于制定国民经济和社会发展第十五个五年规划的建议",
+      "url": "https://www.mofcom.gov.cn/xwfb/rcxwfb/art/2025/art_411d31b47a014eaaaee3d3f847b19b83.html",
+      "publisher": "商务部（转载新华社）",
+      "original_author": "中共中央",
+      "event_date": "2025-10-23",
+      "published_date": "2025-10-28",
+      "checked_date": "2026-10-06",
+      "doc_type": "party_document",
+      "period": "二十届四中全会；面向2026—2030年",
+      "tags": [
+        "十五五",
+        "发展规划",
+        "指导思想",
+        "战略目标"
+      ],
+      "verification": "opened_fulltext",
+      "notes": "已核验全文及通过、发布日期。这是中央的规划建议，须与全国人大批准的规划纲要以及后续专项规划分开引用；不能把建议直接当作法律条文或把目标当预测。"
+    },
+    {
+      "id": "fifteenth-plan-outline-2026",
+      "title": "中华人民共和国国民经济和社会发展第十五个五年规划纲要",
+      "url": "https://www.12371.cn/2026/03/13/ARTI1773410307876581.shtml",
+      "publisher": "共产党员网（来源：新华社）",
+      "original_author": "国务院组织编制；第十四届全国人民代表大会第四次会议批准",
+      "event_date": "2026-03-12",
+      "published_date": "2026-03-14",
+      "checked_date": "2026-10-06",
+      "doc_type": "policy",
+      "period": "2026—2030年",
+      "tags": [
+        "十五五",
+        "国家发展规划",
+        "指标",
+        "重大工程",
+        "规划实施"
+      ],
+      "verification": "opened_fulltext",
+      "notes": "已打开全文。页面末尾显示2026-03-14发布，不能依据URL中的03/13写成发布日期。批准日由同站新华社闭幕报道核对：https://www.12371.cn/2026/03/12/ARTI1773316487610330.shtml 。中国政府网原页本轮403；国家发改委PDF未成功解析。约束性与预期性指标、目标与实际完成情况须分开。"
+    },
+    {
+      "id": "government-work-report-2026",
+      "title": "政府工作报告——2026年3月5日在第十四届全国人民代表大会第四次会议上",
+      "url": "https://www.12371.cn/2026/03/13/ARTI1773409813628540.shtml",
+      "publisher": "共产党员网（来源：新华社）",
+      "original_author": "李强（代表国务院）",
+      "event_date": "2026-03-05",
+      "published_date": "2026-03-14",
+      "checked_date": "2026-10-06",
+      "doc_type": "policy",
+      "period": "回顾2025年；部署2026年及十五五",
+      "tags": [
+        "年度工作",
+        "宏观政策",
+        "经济目标",
+        "民生",
+        "李强"
+      ],
+      "verification": "opened_fulltext",
+      "notes": "已打开全文。讲话日为03-05，页面发布时间03-14；03-12经全国人大会议批准可见同站闭幕报道。区分2025年回顾数据、2026年预期目标与实际后续结果；不能引用报告目标替代2026年月度或季度统计。"
+    },
+    {
+      "id": "xi-speeches-portal",
+      "title": "总书记重要讲话——共产党员网学习平台",
+      "url": "https://www.12371.cn/special/xxzd/jh/",
+      "publisher": "共产党员网",
+      "original_author": "习近平；门户整理者为共产党员网",
+      "event_date": null,
+      "published_date": null,
+      "checked_date": "2026-10-06",
+      "doc_type": "portal",
+      "period": "2012年起；持续更新",
+      "tags": [
+        "习近平",
+        "讲话检索",
+        "原文溯源",
+        "日期核验"
+      ],
+      "verification": "opened_portal",
+      "notes": "已打开按年份排列的讲话目录，可见2026年条目；这不等于收录所有讲话或每篇已经核验。目录会区分讲话发生时间与后来在《求是》刊发时间。每条引文须点开原页、检查上下文和原始日期。"
+    },
+    {
+      "id": "xi-selected-works-portal",
+      "title": "《习近平著作选读》专题",
+      "url": "https://www.12371.cn/special/zzxd/",
+      "publisher": "共产党员网",
+      "original_author": "习近平；专题编纂者为共产党员网",
+      "event_date": null,
+      "published_date": null,
+      "checked_date": "2026-10-06",
+      "doc_type": "portal",
+      "period": "第一卷、第二卷专题及延伸学习材料",
+      "tags": [
+        "习近平著作选读",
+        "篇目",
+        "著作",
+        "学习资料"
+      ],
+      "verification": "opened_portal",
+      "notes": "已核验专题入口和篇目介绍链接。专题包含出版信息与学习文章，并非已下载两卷全部正文；辅导文章作者不能误写为习近平。"
+    },
+    {
+      "id": "xi-governance-volume1-portal",
+      "title": "《习近平谈治国理政》第一卷目录",
+      "url": "https://www.12371.cn/special/blqs/xjptzglz/",
+      "publisher": "共产党员网",
+      "original_author": "习近平；目录整理者为共产党员网",
+      "event_date": null,
+      "published_date": null,
+      "checked_date": "2026-10-06",
+      "doc_type": "portal",
+      "period": "十八大闭幕后至2014-06-13的篇目",
+      "tags": [
+        "习近平谈治国理政",
+        "中国特色社会主义",
+        "篇目日期",
+        "著作"
+      ],
+      "verification": "opened_portal",
+      "notes": "已打开目录，可按专题定位讲话题名及日期；目录标注79篇、18个专题。该条仅覆盖第一卷目录，不意味着其他卷不存在，也不代表已收齐第一卷每篇正文。需要哪篇就打开哪篇核验。"
+    },
+    {
+      "id": "state-council-policy-search",
+      "title": "中国政府网政策搜索（国务院政策文件检索入口）",
+      "url": "https://www.gov.cn/search/zhengce/?q=",
+      "publisher": "中国政府网（国务院办公厅主办）",
+      "original_author": "国务院、国务院办公厅及相关发文机关；按具体结果核定",
+      "event_date": null,
+      "published_date": null,
+      "checked_date": "2026-10-06",
+      "doc_type": "portal",
+      "period": "持续更新的政策检索入口",
+      "tags": [
+        "国务院政策文件库",
+        "政策检索",
+        "文号",
+        "效力",
+        "实施细则"
+      ],
+      "verification": "opened_portal",
+      "notes": "搜索界面已打开，具备中央有关文件、国务院文件、解读及日期筛选。部门文件列表和旧文件库入口本轮有读取错误；已打开检索页不等于已执行全面最新检索。须核对结果正文、发文机关、文号、成文日期、施行日期、废止或修改信息。"
+    },
+    {
+      "id": "national-laws-database",
+      "title": "国家法律法规数据库",
+      "url": "https://flk.npc.gov.cn/",
+      "publisher": "全国人大常委会办公厅",
+      "original_author": "各有权立法和解释机关；按具体文件核定",
+      "event_date": null,
+      "published_date": null,
+      "checked_date": "2026-10-06",
+      "doc_type": "portal",
+      "period": "持续更新的法律法规检索入口",
+      "tags": [
+        "法律",
+        "行政法规",
+        "地方法规",
+        "司法解释",
+        "现行效力"
+      ],
+      "verification": "blocked",
+      "notes": "搜索索引显示数据库及有效、已修改、已废止等筛选，但本轮 /、/index、/search、/detail2.html 打开均失败，不能声称已用该库完成现行效力核查。未来查询应重试，或使用全国人大及制定机关官方公报，并明确访问限制。"
+    },
+    {
+      "id": "nbs-portal",
+      "title": "国家统计局官方网站",
+      "url": "https://www.stats.gov.cn/",
+      "publisher": "国家统计局",
+      "original_author": "国家统计局及具体统计资料责任部门",
+      "event_date": null,
+      "published_date": null,
+      "checked_date": "2026-10-06",
+      "doc_type": "portal",
+      "period": "持续更新",
+      "tags": [
+        "国民经济",
+        "统计数据",
+        "发布日程",
+        "指标解释",
+        "统计口径"
+      ],
+      "verification": "opened_portal",
+      "notes": "已打开，含月度、季度、年度数据、年鉴、发布预告等入口。数据查询链接 https://data.stats.gov.cn/ 本轮仅返回重定向空壳，未核验任何数据库查询结果。引用数值仍须打开具体发布页并读取注释。"
+    },
+    {
+      "id": "nbs-yearbooks-portal",
+      "title": "中国统计年鉴",
+      "url": "https://www.stats.gov.cn/sj/ndsj/",
+      "publisher": "国家统计局",
+      "original_author": "国家统计局",
+      "event_date": null,
+      "published_date": null,
+      "checked_date": "2026-10-06",
+      "doc_type": "portal",
+      "period": "目录本轮可见1999—2025年版",
+      "tags": [
+        "统计年鉴",
+        "历史序列",
+        "口径变更",
+        "跨年比较"
+      ],
+      "verification": "opened_portal",
+      "notes": "已打开目录，本轮可见最高为2025年版；不能据此证明2026版尚未出版。年鉴年份、数据所属期、最新修订年份不等同。跨年比较须处理经济普查修订、分类标准和统计范围变化。"
+    },
+    {
+      "id": "nbs-statistical-bulletins-portal",
+      "title": "国家统计局统计公报目录",
+      "url": "https://www.stats.gov.cn/xxgk/sjfb/tjgb2020/",
+      "publisher": "国家统计局",
+      "original_author": "国家统计局",
+      "event_date": null,
+      "published_date": null,
+      "checked_date": "2026-10-06",
+      "doc_type": "portal",
+      "period": "年度与普查公报目录；本轮含2025年公报",
+      "tags": [
+        "统计公报",
+        "年度数据",
+        "普查",
+        "发布日期"
+      ],
+      "verification": "opened_portal",
+      "notes": "已打开目录，显示2025年国民经济和社会发展统计公报于2026-02-28发布，并含历年条目。目录中的发布日期不能当作数据所属年份。"
+    },
+    {
+      "id": "nbs-bulletin-2025",
+      "title": "中华人民共和国2025年国民经济和社会发展统计公报",
+      "url": "https://www.stats.gov.cn/zt_18555/zthd/lhfw/2026lhzt/2026hgjj/202602/t20260228_1962667.html",
+      "publisher": "国家统计局（全国两会服务专题）",
+      "original_author": "国家统计局",
+      "event_date": "2026-02-28",
+      "published_date": "2026-02-28",
+      "checked_date": "2026-10-06",
+      "doc_type": "statistics",
+      "period": "2025自然年；2026年发布",
+      "tags": [
+        "2025年统计",
+        "GDP",
+        "人口",
+        "就业",
+        "收入",
+        "能源",
+        "初步核算"
+      ],
+      "verification": "opened_fulltext",
+      "notes": "已打开国家统计局专题全文及表格。主数据页本轮超时，专题为同机关版本。须保留初步核算、调查范围、可比口径等注释；回答2026年的当前态势需要追加2026年已发布的月度、季度数据。"
+    },
+    {
+      "id": "supp-mao-practice",
+      "title": "实践论",
+      "url": "https://news.12371.cn/2017/08/29/ARTI1504001411770206.shtml",
+      "publisher": "共产党员网",
+      "original_author": "毛泽东",
+      "event_date": null,
+      "published_date": "2017-08-29",
+      "doc_type": "theory",
+      "period": "新民主主义革命时期",
+      "tags": [
+        "毛泽东",
+        "认识论",
+        "实践检验",
+        "理论实践"
+      ],
+      "notes": "正文标1937年7月，未给具体日，event_date留空；已核验实践检验认识、经验与理论关系相关段落。哲学方法不能代替数据和因果识别。",
+      "checked_date": "2026-10-06",
+      "verification": "opened_fulltext"
+    },
+    {
+      "id": "supp-mao-contradiction",
+      "title": "矛盾论",
+      "url": "https://news.12371.cn/2017/08/29/ARTI1504001209326173.shtml",
+      "publisher": "共产党员网",
+      "original_author": "毛泽东",
+      "event_date": null,
+      "published_date": "2017-08-29",
+      "doc_type": "theory",
+      "period": "新民主主义革命时期",
+      "tags": [
+        "毛泽东",
+        "辩证法",
+        "主要矛盾",
+        "具体分析"
+      ],
+      "notes": "正文标1937年8月，未给具体日；已核验矛盾特殊性及第四节主要矛盾分析。网页附注说明收入第一版时曾补充删改，不能称为1937年未经修改的逐字稿。",
+      "checked_date": "2026-10-06",
+      "verification": "opened_fulltext"
+    },
+    {
+      "id": "supp-deng-12th-opening",
+      "title": "邓小平在中国共产党第十二次全国代表大会上的开幕词",
+      "url": "https://fuwu.12371.cn/2012/09/27/ARTI1348710255841791.shtml",
+      "publisher": "共产党员网（来源：新华网）",
+      "original_author": "邓小平",
+      "event_date": "1982-09-01",
+      "published_date": "2012-09-27",
+      "doc_type": "theory",
+      "period": "改革开放初期",
+      "tags": [
+        "邓小平",
+        "中国特色社会主义命题",
+        "中国实际",
+        "现代化"
+      ],
+      "notes": "已打开完整开幕词，核验从中国实际出发并将马克思主义普遍真理同具体实际相结合的段落；可替代此前仅使用的十二大专题概述。",
+      "checked_date": "2026-10-06",
+      "verification": "opened_fulltext"
+    },
+    {
+      "id": "supp-deng-southern-talks",
+      "title": "邓小平：在武昌、深圳、珠海、上海等地的谈话要点",
+      "url": "https://www.zzrd.gov.cn/jsc/show.aspx?id=41",
+      "publisher": "郑州市人大常委会网站（来源：郑州人大工作）",
+      "original_author": "邓小平",
+      "event_date": null,
+      "published_date": "2008-08-28",
+      "doc_type": "theory",
+      "period": "改革开放和社会主义现代化建设新时期",
+      "tags": [
+        "邓小平",
+        "南方谈话",
+        "计划市场",
+        "共同富裕"
+      ],
+      "notes": "已打开六节正文并核验第二节计划市场、社会主义本质与共同富裕论述。此转载页题下注仅写1992年1月，故event_date留空；引用具体日期与字句宜再校正式文选，不能用转载日期当讲话日期。",
+      "checked_date": "2026-10-06",
+      "verification": "opened_fulltext"
+    },
+    {
+      "id": "supp-xi-common-prosperity",
+      "title": "扎实推动共同富裕",
+      "url": "https://www.qstheory.cn/dukan/qs/2021-10/15/c_1127959365.htm",
+      "publisher": "求是网／《求是》2021年第20期",
+      "original_author": "习近平",
+      "event_date": "2021-08-17",
+      "published_date": "2021-10-15",
+      "doc_type": "theory",
+      "period": "中国特色社会主义新时代",
+      "tags": [
+        "习近平",
+        "共同富裕",
+        "效率公平",
+        "基本经济制度",
+        "量力而行"
+      ],
+      "notes": "已核验完整刊发文章：共同富裕内涵、四项原则和六方面工作。篇末明示是中央财经委员会第十次会议讲话的一部分，不能称为整场会议讲话全文；所列目标不是已实现结果。",
+      "checked_date": "2026-10-06",
+      "verification": "opened_fulltext"
+    },
+    {
+      "id": "county-urbanization-opinion-2022",
+      "title": "中共中央办公厅 国务院办公厅印发《关于推进以县城为重要载体的城镇化建设的意见》",
+      "url": "https://app.www.gov.cn/govdata/gov/202205/06/484630/article.html",
+      "publisher": "中国政府网（来源：新华社）",
+      "original_author": "中共中央办公厅、国务院办公厅",
+      "event_date": null,
+      "published_date": "2022-05-06",
+      "checked_date": "2026-10-06",
+      "doc_type": "policy",
+      "period": "2022年县城建设部署；具体措施需核验当期落实文件",
+      "tags": [
+        "县域",
+        "人口流失",
+        "存量资产",
+        "产业比较优势",
+        "城镇化"
+      ],
+      "verification": "opened_fulltext",
+      "notes": "同轮首次已打开中国政府网移动页正文，后续复访超时；政府公报页返回403。第（八）项专述人口流失县城，第（九）项涉及特色优势产业。页面未列准确成文日，event_date留空。政策要求不能证明某县园区具备需求或投资收益。"
+    },
+    {
+      "id": "rural-revitalization-plan-2024-2027",
+      "title": "中共中央 国务院印发《乡村全面振兴规划（2024—2027年）》",
+      "url": "https://www.mee.gov.cn/ywdt/szyw/202501/t20250122_1101184.shtml",
+      "publisher": "生态环境部（转载中国政府网、新华社）",
+      "original_author": "中共中央、国务院",
+      "event_date": null,
+      "published_date": "2025-01-22",
+      "checked_date": "2026-10-06",
+      "doc_type": "policy",
+      "period": "2024—2027年规划；展望2035年",
+      "tags": [
+        "乡村振兴",
+        "农业",
+        "因地制宜",
+        "农民增收",
+        "产业融合"
+      ],
+      "verification": "opened_fulltext",
+      "notes": "已打开部委转载的公布文本，原文说明为规划主要内容。新华社电头与页面均为2025-01-22，未列准确成文日。目标、支持方向与具体项目收益须分开；规划中的历史过渡期安排须核验后续文件。"
+    },
+    {
+      "id": "eldercare-reform-opinion-2024",
+      "title": "中共中央 国务院关于深化养老服务改革发展的意见",
+      "url": "https://www.mee.gov.cn/zcwj/zyygwj/202501/t20250108_1100234.shtml",
+      "publisher": "生态环境部（转载中国政府网、新华社）",
+      "original_author": "中共中央、国务院",
+      "event_date": "2024-12-30",
+      "published_date": "2025-01-08",
+      "checked_date": "2026-10-06",
+      "doc_type": "policy",
+      "period": "2024年成文；目标节点2029年、2035年",
+      "tags": [
+        "养老服务",
+        "失能照护",
+        "居家社区机构",
+        "农村养老",
+        "普惠服务"
+      ],
+      "verification": "opened_fulltext",
+      "notes": "已打开正文。成文日2024-12-30，新华社发布2025-01-07，本转载页2025-01-08。可证明供给结构和服务网络政策方向，不能证明某种配置产生特定效果；地方服务清单、资格和标准须另核。"
+    },
+    {
+      "id": "government-investment-regulation-2019",
+      "title": "政府投资条例",
+      "url": "https://xzfg.moj.gov.cn/front/law/detail?LawID=442",
+      "publisher": "司法部国家行政法规库",
+      "original_author": "国务院",
+      "event_date": "2019-04-14",
+      "published_date": null,
+      "checked_date": "2026-10-06",
+      "doc_type": "law",
+      "period": "2019-07-01起施行；适用时重新核验效力与配套规则",
+      "tags": [
+        "政府投资",
+        "财政收支",
+        "预算约束",
+        "可行性研究",
+        "项目审批"
+      ],
+      "verification": "opened_fulltext",
+      "notes": "已打开法规库正文，国务院令第712号。2018-12-05通过、2019-04-14公布、2019-07-01施行；页面无可核验入库发布日期，published_date留空。其适用范围按第二条界定，不能泛化为所有国企投资或特定融资授权。"
+    },
+    {
+      "id": "personal-social-insurance-law-2018",
+      "title": "中华人民共和国社会保险法（2018年修正文本）",
+      "url": "https://fgk.chinatax.gov.cn/zcfgk/c100009/c5192937/content.html",
+      "publisher": "国家税务总局政策法规库",
+      "original_author": "全国人民代表大会常务委员会",
+      "event_date": "2018-12-29",
+      "published_date": null,
+      "checked_date": "2026-10-06",
+      "doc_type": "law",
+      "period": "2010年制定、2018年修正",
+      "tags": [
+        "社会保险",
+        "转移接续",
+        "失业保险",
+        "个人权益"
+      ],
+      "verification": "opened_fulltext",
+      "notes": "已打开税务总局全文，页面标注全文有效及成文日期；未把成文日期当转载日期。重点核对第四、十九、三十二、四十五至五十二条。退休年龄、最低缴费年限等另有后续改革规定，不能只凭此版本回答当前退休资格。"
+    },
+    {
+      "id": "personal-medical-insurance-transfer-2021",
+      "title": "国家医保局办公室 财政部办公厅关于印发《基本医疗保险关系转移接续暂行办法》的通知",
+      "url": "https://www.nhsa.gov.cn/art/2021/11/26/art_37_7408.html",
+      "publisher": "国家医疗保障局",
+      "original_author": "国家医保局办公室、财政部办公厅",
+      "event_date": "2021-11-01",
+      "published_date": "2021-11-26",
+      "checked_date": "2026-10-06",
+      "doc_type": "policy",
+      "period": "2021-12-01起施行；具体办理须查转入地规则",
+      "tags": [
+        "医保",
+        "跨城就业",
+        "转移接续",
+        "待遇衔接"
+      ],
+      "verification": "opened_fulltext",
+      "notes": "医保办发〔2021〕43号。已核验适用范围、分制度转移、不得重复参保和重复待遇、衔接及年限规则。适用职工医保范围不含退休人员；中断后的补缴情形和待遇要与当地现行规定结合，异地就医备案不是关系转移的同义词。"
+    },
+    {
+      "id": "personal-labor-dispute-law-2007",
+      "title": "中华人民共和国劳动争议调解仲裁法",
+      "url": "https://www.beijing.gov.cn/zhengce/zhengcefagui/qtwj/201912/t20191219_1307906.html",
+      "publisher": "北京市人民政府首都之窗（全国法律全文）",
+      "original_author": "全国人民代表大会常务委员会",
+      "event_date": "2007-12-29",
+      "published_date": "2007-12-29",
+      "checked_date": "2026-10-06",
+      "doc_type": "law",
+      "period": "2008-05-01起施行",
+      "tags": [
+        "劳动争议",
+        "欠薪",
+        "证据",
+        "仲裁",
+        "时效"
+      ],
+      "verification": "opened_fulltext",
+      "notes": "页面元数据发布日期为2007-12-29；URL中的2019不能当法律通过日。已核对第二、五、六、九、二十一、二十七条等。协商调解并非所有争议都必须完成的前置步骤；具体受理、时效中断和救济应依事实核验。"
+    },
+    {
+      "id": "personal-housing-rental-regulation-2025",
+      "title": "住房租赁条例（国务院令第812号）",
+      "url": "https://www.mee.gov.cn/zcwj/gwywj/202507/t20250722_1123995.shtml",
+      "publisher": "生态环境部（来源：中国政府网）",
+      "original_author": "国务院",
+      "event_date": "2025-07-16",
+      "published_date": "2025-07-22",
+      "checked_date": "2026-10-06",
+      "doc_type": "law",
+      "period": "2025-09-15起施行",
+      "tags": [
+        "租房",
+        "合同",
+        "押金",
+        "住房安全",
+        "租购选择"
+      ],
+      "verification": "opened_fulltext",
+      "notes": "已打开全文；2025-06-27通过，event_date记公布日。行政法规主要适用于城镇国有土地上住房租赁；保障性住房另有规定从其规定，集体土地规则另查地方。第七至十条可支持安全、实名合同、权属和押金核验，不支持关于购房收益的判断。"
+    },
+    {
+      "id": "personal-affordable-rental-opinion-2021",
+      "title": "国务院办公厅关于加快发展保障性租赁住房的意见",
+      "url": "https://www.beijing.gov.cn/zhengce/zhengcefagui/202107/t20210702_2428056.html",
+      "publisher": "北京市人民政府首都之窗（国务院办公厅文件）",
+      "original_author": "国务院办公厅",
+      "event_date": "2021-06-24",
+      "published_date": "2021-07-02",
+      "checked_date": "2026-10-06",
+      "doc_type": "policy",
+      "period": "2021年中央政策；地方准入退出另定",
+      "tags": [
+        "保障性租赁住房",
+        "新市民",
+        "青年人",
+        "地方资格",
+        "住房保障"
+      ],
+      "verification": "opened_fulltext",
+      "notes": "国办发〔2021〕22号，页面标注有效。第二部分第（一）项明确目标群体及城市政府确定准入退出条件。保障性租赁住房、公租房和配售型保障性住房不能互称；本文件不提供全国统一申请资格或房源保证。"
+    },
+    {
+      "id": "personal-employment-funds-2026",
+      "title": "财政部 人力资源社会保障部关于印发《就业补助资金管理办法》的通知",
+      "url": "https://rsj.sh.gov.cn/cmsres/75/757a9e0f42084a7aa1f292e8dec92429/462a3c14addcb526cabdb407a3f9e115.pdf",
+      "publisher": "上海市人力资源和社会保障局（中央文件PDF）",
+      "original_author": "财政部、人力资源社会保障部",
+      "event_date": "2026-01-09",
+      "published_date": null,
+      "checked_date": "2026-10-06",
+      "doc_type": "policy",
+      "period": "2026年修订；中央相关支出实施期限见第二十五条",
+      "tags": [
+        "职业培训",
+        "创业补贴",
+        "就业服务",
+        "补贴申领",
+        "地方标准"
+      ],
+      "verification": "opened_fulltext",
+      "notes": "财社〔2026〕1号，已打开12页PDF。第五条涉及有条件的一次性创业补贴，第六条培训，第九条地方标准和防重复，第十六条地方公开申领流程，第二十六条废止财社〔2023〕181号。原财政部网页本轮打开失败，仅作替代线索：https://sbs.mof.gov.cn/zxzyzf/jybzzj/202601/t20260119_3982161.htm 。PDF未载转载日，不能把成文日填为该字段。"
+    },
+    {
+      "id": "personal-skill-certificate-query-2022",
+      "title": "实用！职业技能等级证书、技能人员职业资格证书上这儿查",
+      "url": "https://app.www.gov.cn/govdata/gov/202201/06/480434/article.html",
+      "publisher": "国务院客户端（来源：人力资源社会保障部微信）",
+      "original_author": "人力资源和社会保障部",
+      "event_date": null,
+      "published_date": "2022-01-06",
+      "checked_date": "2026-10-06",
+      "doc_type": "policy",
+      "period": "2022年官方查询说明；入口变化时查主管部门现行指引",
+      "tags": [
+        "职业资格",
+        "职业技能等级",
+        "证书核验",
+        "评价机构",
+        "培训"
+      ],
+      "verification": "opened_fulltext",
+      "notes": "已打开官方办事说明，支持区分两类技能证书、查询方式及联系评价机构核实未查到记录。未查到不自动等于假证；本页不涵盖所有专业技术资格、特种作业证或普通课程结业证，更不证明证书有就业回报。"
+    },
+    {
+      "id": "personal-basic-eldercare-opinion-2023",
+      "title": "中共中央办公厅 国务院办公厅印发《关于推进基本养老服务体系建设的意见》",
+      "url": "https://www.12371.cn/2023/05/22/ARTI1684710468730161.shtml",
+      "publisher": "共产党员网",
+      "original_author": "中共中央办公厅、国务院办公厅",
+      "event_date": null,
+      "published_date": "2023-05-22",
+      "checked_date": "2026-10-06",
+      "doc_type": "policy",
+      "period": "2023年政策；包含十四五阶段目标，服务清单动态调整",
+      "tags": [
+        "基本养老服务",
+        "地方清单",
+        "居家养老",
+        "社区服务",
+        "家庭照护"
+      ],
+      "verification": "opened_fulltext",
+      "notes": "已打开网页所载意见主要内容；附件清单以图片呈现，本轮未读取图片逐项核验。正文支持省级服务清单、能力评估、公办机构排序、居家社区服务和线下途径。2025年目标不是已全面实现的证明，具体项目覆盖须查2026年当地规则。"
+    },
+    {
+      "id": "personal-business-registration-regulation-2021",
+      "title": "中华人民共和国市场主体登记管理条例",
+      "url": "https://www.samr.gov.cn/zw/zfxxgk/fdzdgknr/bgt/art/2023/art_f7eb837050cf489d9b1dba27fa502fce.html",
+      "publisher": "国家市场监督管理总局",
+      "original_author": "国务院",
+      "event_date": "2021-07-27",
+      "published_date": "2021-11-05",
+      "checked_date": "2026-10-06",
+      "doc_type": "law",
+      "period": "2022-03-01起施行；事项办理须合并后续相关法规",
+      "tags": [
+        "创业",
+        "开店",
+        "市场主体登记",
+        "经营场所",
+        "许可"
+      ],
+      "verification": "opened_fulltext",
+      "notes": "已打开市场监管总局全文；元数据公布日期2021-07-27、页面发布时间2021-11-05，URL的2023不作为发布日期。第三、十一、十四、十六、十七条提供登记与许可核验起点；设公司或特定行业还须查新公司法、现行登记规章及地方许可，不能把营业执照当所有经营许可。"
+    }
+  ]
+}

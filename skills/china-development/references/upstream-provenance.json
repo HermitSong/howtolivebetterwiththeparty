@@ -1,0 +1,52 @@
+{
+  "repo": "https://github.com/eternity4719/HowToLiveBetter",
+  "owner": "eternity4719",
+  "commit": "20718eeab32cb8506971fb71b03e66a91077be07",
+  "commit_date_utc": "2026-10-06T03:01:45Z",
+  "checked_date": "2026-10-06",
+  "license": "Split licenses: CC-BY-4.0 for content; MIT for specified code and skill paths",
+  "content_license": {
+    "spdx": "CC-BY-4.0",
+    "paths": ["book/", "docs/", "README.md text"],
+    "source": "https://github.com/eternity4719/HowToLiveBetter/blob/20718eeab32cb8506971fb71b03e66a91077be07/LICENSE"
+  },
+  "code_license": {
+    "spdx": "MIT",
+    "paths": ["tools/", "skills/", "index.html", ".github/"],
+    "source": "https://github.com/eternity4719/HowToLiveBetter/blob/20718eeab32cb8506971fb71b03e66a91077be07/LICENSE-CODE"
+  },
+  "inspected_paths": [
+    "README.md",
+    "LICENSE",
+    "LICENSE-CODE",
+    "skills/life-decision-guide/SKILL.md",
+    "skills/life-decision-guide/README.md",
+    "index.html: COST_W, e.cs and e.ratio definitions",
+    ".claude/skills/life-decision-guide/SKILL.md: tree presence only"
+  ],
+  "inspection_methods": [
+    "Read-only GitHub and raw.githubusercontent.com text retrieval",
+    "GitHub REST API repository metadata, commit and recursive tree inspection"
+  ],
+  "upstream_reported_counts": {
+    "chapters": 34,
+    "entries": 667,
+    "independently_recounted": false
+  },
+  "reuse": {
+    "methodological_benchmark_only": true,
+    "copied_upstream_content_or_code": false,
+    "installed_upstream_skill": false
+  },
+  "not_executed": [
+    "No upstream code or scripts were executed",
+    "No upstream skill was installed or invoked",
+    "No end-to-end behavior test of the upstream tool was performed",
+    "No comprehensive audit of all advice entries or cited primary sources was performed"
+  ],
+  "limits": [
+    "Repository popularity is not independent validation of advice quality",
+    "The evidence grading and cost-benefit rankings are author-defined",
+    "Older third-party Unlicense descriptions were not treated as the current license"
+  ]
+}
