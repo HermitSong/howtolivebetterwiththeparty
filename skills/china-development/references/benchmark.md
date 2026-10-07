@@ -4,7 +4,7 @@
 
 ## 定位与结构
 
-参考项目是中文生活指南，法律、医保和社保内容按中国大陆制度编写。ChinaDevelopmentGuide 以中国特色社会主义理论、中国发展与党政公开文献研究为基础，借鉴其条目组织方法来支持政策应用。该版本 README 自报 34 节、667 条建议，数量未逐条独立复核。`book/` 放正文，`docs/` 放长文和核实记录，`index.html` 提供检索和排序，`skills/life-decision-guide/` 引导 AI 先检索正文、读完适用条件，再给出带章节出处的行动建议。[原仓说明](https://github.com/eternity4719/HowToLiveBetter/blob/20718eeab32cb8506971fb71b03e66a91077be07/README.md)
+参考项目是中文生活指南，法律、医保和社保内容按中国大陆制度编写。How to Live Better with the Party 以中国特色社会主义理论、中国发展与党政公开文献研究为基础，借鉴其条目组织方法来支持政策应用。该版本 README 自报 34 节、667 条建议，数量未逐条独立复核。`book/` 放正文，`docs/` 放长文和核实记录，`index.html` 提供检索和排序，`skills/life-decision-guide/` 引导 AI 先检索正文、读完适用条件，再给出带章节出处的行动建议。[原仓说明](https://github.com/eternity4719/HowToLiveBetter/blob/20718eeab32cb8506971fb71b03e66a91077be07/README.md)
 
 ## 许可
 

@@ -1,4 +1,4 @@
 interface:
-  display_name: "中国发展与民生实用指南"
+  display_name: "在党的光辉下，如何过得更好"
   short_description: "贯通国家发展、地方产业与个人选择，用理论、政策和数据形成可核验的行动建议"
   default_prompt: "请用 $china-development 分析我的问题，检索相关行动条目与当前政策，说明适用条件、成本收益、取舍和下一步。"

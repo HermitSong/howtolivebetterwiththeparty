@@ -1,4 +1,8 @@
-# 中国特色社会主义与中国发展实用指南
+# How to Live Better with the Party
+
+**在党的光辉下，如何过得更好**
+
+中国特色社会主义与中国发展实用指南。这里的“党”指中国共产党（the Communist Party of China）；仓库名为 `howtolivebetterwithparty`。
 
 **从理论到有证据的行动：理解过去，分析现在，推演未来。**
 
@@ -31,6 +35,8 @@
 ## 交给 AI 使用
 
 将 [`skills/china-development`](skills/china-development) 文件夹复制到所用工具规定的技能目录；该工具需支持 `SKILL.md`，具体位置和调用方式以其文档为准。技能通过原文检索和行动卡辅助回答，当前政策、地方规则与新数据在使用时需要联网核验。
+
+项目展示名已更新；技能调用标识仍为 `china-development`，已有调用方式继续适用。
 
 示例提问：
 

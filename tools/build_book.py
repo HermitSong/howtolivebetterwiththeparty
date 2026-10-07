@@ -43,7 +43,7 @@ def make_reader(entries, sources, compiled_on):
         articles.append('\n'.join(bits))
     return '''<!doctype html>
 <html lang="zh-CN"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width, initial-scale=1">
-<title>中国特色社会主义与中国发展实用指南</title>
+<title>How to Live Better with the Party · 在党的光辉下，如何过得更好</title>
 <meta name="description" content="以历届领导人论述、党政公开文献和统计证据，贯通国家、产业与个人决策。">
 <style>
 :root{color-scheme:light;--ink:#16352c;--muted:#52675d;--line:#d6dfd4;--paper:#f5f5ed;--accent:#215b46}
@@ -58,10 +58,11 @@ input,select{font:inherit;color:var(--ink);padding:12px;background:white;border:
 .body{padding:0 26px 22px;border-top:1px solid var(--line)}h3{font-size:16px;margin:24px 0 8px}.body ul{padding-left:22px}footer{font-size:13px;border-top:1px solid var(--line);color:var(--muted)}[hidden]{display:none!important}
 @media(max-width:650px){header,main,footer{padding:24px 18px}.focus{grid-template-columns:1fr;gap:10px}.focus div{padding:16px}summary strong{display:block;margin:9px 0}summary{padding:18px}}
 </style></head><body>
-<header><div class="eyebrow">CHINA DEVELOPMENT GUIDE · 开放研究与实践</div>
-<h1>中国特色社会主义<br>与中国发展实用指南</h1>
+<header><div class="eyebrow">HOW TO LIVE BETTER WITH THE PARTY</div>
+<h1>在党的光辉下<br>如何过得更好</h1>
+<p>中国特色社会主义与中国发展实用指南。“党”指中国共产党（the Communist Party of China）。</p>
 <p class="lead">以中国特色社会主义理论为主线，以历届领导人论述、党和政府公开文献及统计证据为基础，理解中国发展的过去、现在与未来，支持国家、产业和个人的具体选择。</p>
-<nav><a href="README.md">项目说明</a><a href="book/README.md">完整目录</a><a href="skills/china-development/references/theory-history.md">理论与历史</a><a href="skills/china-development/SKILL.md">使用 AI Skill</a><a href="https://github.com/HermitSong/ChinaDevelopmentGuide">GitHub</a></nav>
+<nav><a href="README.md">项目说明</a><a href="book/README.md">完整目录</a><a href="skills/china-development/references/theory-history.md">理论与历史</a><a href="skills/china-development/SKILL.md">使用 AI Skill</a><a href="https://github.com/HermitSong/howtolivebetterwithparty">GitHub</a></nav>
 </header><main>
 <div class="focus"><div><b>理论与文献</b><p>毛泽东思想、邓小平理论、“三个代表”重要思想、科学发展观、习近平新时代中国特色社会主义思想，以及其他领导人的相关公开文献。</p></div>
 <div><b>历史、现实与未来</b><p>回到历史语境，核验现行政策与发展结果，依据假设和指标构建未来情景。</p></div>
@@ -91,7 +92,8 @@ def outputs():
     entries = collection["cards"]
     sources = {s["id"]: s for s in catalog["sources"]}
     result = {}
-    toc = ["# 中国特色社会主义与中国发展实用指南 · 阅读目录", "",
+    toc = ["# How to Live Better with the Party · 阅读目录", "",
+           "**在党的光辉下，如何过得更好** · 中国特色社会主义与中国发展实用指南", "",
            "以中国特色社会主义理论和公开文献为基础，贯通历史、现实与未来，连接国家、地方产业、家庭个人决策。", "",
            "[项目首页](../README.md) · [项目重点](../docs/project-focus.md) · [理论与历史](../skills/china-development/references/theory-history.md) · [证据方法](../skills/china-development/references/research-method.md)", "",
            f"资料快照：{catalog['compiled_on']}。行动条目是研究和决策起点；预期作用不等于已证实效果。具体政策须按时间、地区和资格重新核验。", ""]
