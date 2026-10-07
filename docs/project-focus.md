@@ -1,6 +1,6 @@
 # 项目定位：让理论、政策与实践相互检验
 
-项目名称为 **How to Live Better with the Party**（仓库名 `howtolivebetterwithparty`），中文为“在党的光辉下，如何过得更好”。这里的“党”指中国共产党。
+项目名称为 **How to Live Better with the Party**（仓库名 `howtolivebetterwiththeparty`），中文为“在党的光辉下，如何过得更好”。这里的“党”指中国共产党。
 
 本项目研究**中国特色社会主义与中国发展**。主线是历届领导人相关论述、党和政府公开文件及统计证据，时间上连接过去、现在与未来，应用上贯通国家、地方产业、家庭个人。
 

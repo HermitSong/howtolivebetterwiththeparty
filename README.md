@@ -2,7 +2,7 @@
 
 **在党的光辉下，如何过得更好**
 
-中国特色社会主义与中国发展实用指南。这里的“党”指中国共产党（the Communist Party of China）；仓库名为 `howtolivebetterwithparty`。
+中国特色社会主义与中国发展实用指南。这里的“党”指中国共产党（the Communist Party of China）；仓库名为 `howtolivebetterwiththeparty`。
 
 **从理论到有证据的行动：理解过去，分析现在，推演未来。**
 

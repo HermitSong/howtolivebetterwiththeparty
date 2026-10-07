@@ -62,7 +62,7 @@ input,select{font:inherit;color:var(--ink);padding:12px;background:white;border:
 <h1>在党的光辉下<br>如何过得更好</h1>
 <p>中国特色社会主义与中国发展实用指南。“党”指中国共产党（the Communist Party of China）。</p>
 <p class="lead">以中国特色社会主义理论为主线，以历届领导人论述、党和政府公开文献及统计证据为基础，理解中国发展的过去、现在与未来，支持国家、产业和个人的具体选择。</p>
-<nav><a href="README.md">项目说明</a><a href="book/README.md">完整目录</a><a href="skills/china-development/references/theory-history.md">理论与历史</a><a href="skills/china-development/SKILL.md">使用 AI Skill</a><a href="https://github.com/HermitSong/howtolivebetterwithparty">GitHub</a></nav>
+<nav><a href="README.md">项目说明</a><a href="book/README.md">完整目录</a><a href="skills/china-development/references/theory-history.md">理论与历史</a><a href="skills/china-development/SKILL.md">使用 AI Skill</a><a href="https://github.com/HermitSong/howtolivebetterwiththeparty">GitHub</a></nav>
 </header><main>
 <div class="focus"><div><b>理论与文献</b><p>毛泽东思想、邓小平理论、“三个代表”重要思想、科学发展观、习近平新时代中国特色社会主义思想，以及其他领导人的相关公开文献。</p></div>
 <div><b>历史、现实与未来</b><p>回到历史语境，核验现行政策与发展结果，依据假设和指标构建未来情景。</p></div>

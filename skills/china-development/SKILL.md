@@ -5,7 +5,7 @@ description: 结合历届领导人论述、党政文献和统计证据，研究�
 
 # How to Live Better with the Party
 
-在党的光辉下，如何过得更好——中国特色社会主义与中国发展实用指南。项目仓库名为 `howtolivebetterwithparty`；技能标识保留 `china-development`。
+在党的光辉下，如何过得更好——中国特色社会主义与中国发展实用指南。项目仓库名为 `howtolivebetterwiththeparty`；技能标识保留 `china-development`。
 
 以可追溯文献和可核验数据回答问题，并将理论用于具体问题的分析。默认中文，按用户所需深度作答。覆盖方向广，不承诺掌握全部领导人、全部文献、未公开决策或未来事实。
 
